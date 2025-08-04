@@ -1,6 +1,6 @@
 # 🗳️ Análise de Raça nas Eleições 2022
 
-Este projeto tem como objetivo analisar a **autodeclaração racial de candidatos às eleições de 2022 no Brasil**, buscando compreender como a raça, o gênero, o nível de escolaridade e o cargo disputado se distribuem entre os candidatos de diferentes estados.
+Este projeto tem como objetivo analisar a **autodeclaração racial de candidatos às eleições de 2014, 2018 e 2022 no Brasil**, buscando compreender como a raça, o gênero, o nível de escolaridade e o cargo disputado se distribuem entre os candidatos de diferentes estados.
 
 ---
 
